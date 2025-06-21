@@ -4,8 +4,8 @@ Typstで履歴書/職務経歴書を生成するサンプル。
 
 ## Output PDF
 
-- [resume/resume.pdf][resume/resume.pdf]
-- [cv/cv.pdf][cv/cv.pdf]
+- [resume/resume.pdf](resume/resume.pdf)
+- [cv/cv.pdf](cv/cv.pdf)
 
 ## Usage
 
