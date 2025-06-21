@@ -1,0 +1,33 @@
+name: "猫 太郎"
+kana: "ねこ たろう"
+birthday: "1995年10月10日"
+age: "満30歳"
+nearest_station: "池袋駅"
+skills: |
+  言語、フレームワーク: JavaScript, TypeScript, PHP, HTML, CSS, SQL
+  インフラ・ハード: Docker, AWS (EC2, S3, Lambda, etc), Linux
+  ネットワーク・監視: Datadog
+  その他ツール: Git, GitHub Actions, Terraform
+hobbies: |
+  料理
+  ゲーム（対戦）
+experience:
+  environments: |
+    Linux(Ubuntu, NixOS)
+    MacOS
+    Docker
+  languages: |
+    JavaScript, TypeScript
+    PHP, Ruby
+    HTML5, CSS3
+  frameworks: |
+    Laravel
+    React, Next.js
+    Vue.js, Nuxt.js
+    Ruby on Rails
+  infrastructure: |
+    AWS (EC2, RDS, Lambda)
+    Docker
+  tools: |
+    Git(GitHub)
+    Slack, Discord

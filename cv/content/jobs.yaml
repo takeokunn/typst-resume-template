@@ -1,0 +1,41 @@
+- title: "株式会社キャット Web開発"
+  period:
+    from: "23/10"
+    to: "25/7"
+    span: "1年10ヶ月"
+  workdetail:
+    kind: "生物"
+    type: "動物園"
+    size: "6名"
+  content: |
+    株式会社キャットでWeb開発を行った
+  use-soft: |
+    Git
+    AWS
+    Docker
+    Slack
+  lang-othor: |
+    PHP
+    Laravel
+    AWS
+
+- title: "株式会社ドッグ Web開発"
+  period:
+    from: "22/10"
+    to: "23/10"
+    span: "1年10ヶ月"
+  workdetail:
+    kind: "生物"
+    type: "動物園"
+    size: "6名"
+  content: |
+    株式会社ドッグでWeb開発を行った
+  use-soft: |
+    Git
+    AWS
+    Docker
+    Slack
+  lang-othor: |
+    PHP
+    Laravel
+    AWS
