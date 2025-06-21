@@ -2,6 +2,8 @@
 
 Typstで履歴書/職務経歴書を生成するサンプル。
 
+https://www.takeokunn.org/posts/fleeting/20250619103829-build_cv_resume_with_typst/
+
 ## Output PDF
 
 - [resume/resume.pdf](resume/resume.pdf)
